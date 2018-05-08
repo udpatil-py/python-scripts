@@ -9,7 +9,7 @@
 """
 This program finds the impact list of our production servers by comparing the server names
 
-with the CR impacted listed provided by (DB,Hosting,network....like teams) in service now,
+with the CR impact list provided by operations team like(DB,Hosting,Network,... etc) in Service Now,
 
 and prints the final impacted hostnames....!
 """
@@ -23,4 +23,3 @@ with open("CR_impact_list.txt",'r',encoding='utf-8')as impact_list:
 print('\n --------------these are the hosts found in impact list:--------------\n')
 for host_name in [hostname_1 for hostname_1 in impacted_server_names for hostname_2 in server_names if hostname_1 == hostname_2]):
     print(host_name)
-
