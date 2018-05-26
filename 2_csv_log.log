@@ -1,0 +1,110 @@
+2018-05-25 21:04:23,146 - ERROR - Invalid input...!,Test, please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:28,105 - ERROR - Invalid input...!,"Test Input", please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:32,138 - ERROR - Invalid input...!,-23, please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:37,447 - ERROR - Invalid input...!,2.3432, please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:43,323 - ERROR - Invalid input...!,233j, please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:46,787 - ERROR - Invalid input...!,2+3j, please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:51,327 - ERROR - Invalid input...!,'   ', please re-enter correct positive number, like 1 and above
+2018-05-25 21:04:59,691 - ERROR - Invalid input...!,None, please re-enter correct positive number, like 1 and above
+2018-05-25 21:05:04,224 - ERROR - Invalid input...!,"None", please re-enter correct positive number, like 1 and above
+2018-05-25 21:05:12,319 - INFO - Program started to find the fibonacci series for the given number 100
+2018-05-25 21:05:12,321 - INFO - fibonacci value for number 1 	= 1
+2018-05-25 21:05:12,321 - INFO - fibonacci value for number 2 	= 1
+2018-05-25 21:05:12,322 - INFO - fibonacci value for number 3 	= 2
+2018-05-25 21:05:12,322 - INFO - fibonacci value for number 4 	= 3
+2018-05-25 21:05:12,322 - INFO - fibonacci value for number 5 	= 5
+2018-05-25 21:05:12,322 - INFO - fibonacci value for number 6 	= 8
+2018-05-25 21:05:12,323 - INFO - fibonacci value for number 7 	= 13
+2018-05-25 21:05:12,323 - INFO - fibonacci value for number 8 	= 21
+2018-05-25 21:05:12,323 - INFO - fibonacci value for number 9 	= 34
+2018-05-25 21:05:12,323 - INFO - fibonacci value for number 10 	= 55
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 11 	= 89
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 12 	= 144
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 13 	= 233
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 14 	= 377
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 15 	= 610
+2018-05-25 21:05:12,324 - INFO - fibonacci value for number 16 	= 987
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 17 	= 1597
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 18 	= 2584
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 19 	= 4181
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 20 	= 6765
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 21 	= 10946
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 22 	= 17711
+2018-05-25 21:05:12,325 - INFO - fibonacci value for number 23 	= 28657
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 24 	= 46368
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 25 	= 75025
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 26 	= 121393
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 27 	= 196418
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 28 	= 317811
+2018-05-25 21:05:12,326 - INFO - fibonacci value for number 29 	= 514229
+2018-05-25 21:05:12,327 - INFO - fibonacci value for number 30 	= 832040
+2018-05-25 21:05:12,327 - INFO - fibonacci value for number 31 	= 1346269
+2018-05-25 21:05:12,327 - INFO - fibonacci value for number 32 	= 2178309
+2018-05-25 21:05:12,327 - INFO - fibonacci value for number 33 	= 3524578
+2018-05-25 21:05:12,327 - INFO - fibonacci value for number 34 	= 5702887
+2018-05-25 21:05:12,328 - INFO - fibonacci value for number 35 	= 9227465
+2018-05-25 21:05:12,329 - INFO - fibonacci value for number 36 	= 14930352
+2018-05-25 21:05:12,329 - INFO - fibonacci value for number 37 	= 24157817
+2018-05-25 21:05:12,329 - INFO - fibonacci value for number 38 	= 39088169
+2018-05-25 21:05:12,329 - INFO - fibonacci value for number 39 	= 63245986
+2018-05-25 21:05:12,329 - INFO - fibonacci value for number 40 	= 102334155
+2018-05-25 21:05:12,330 - INFO - fibonacci value for number 41 	= 165580141
+2018-05-25 21:05:12,330 - INFO - fibonacci value for number 42 	= 267914296
+2018-05-25 21:05:12,330 - INFO - fibonacci value for number 43 	= 433494437
+2018-05-25 21:05:12,330 - INFO - fibonacci value for number 44 	= 701408733
+2018-05-25 21:05:12,330 - INFO - fibonacci value for number 45 	= 1134903170
+2018-05-25 21:05:12,331 - INFO - fibonacci value for number 46 	= 1836311903
+2018-05-25 21:05:12,331 - INFO - fibonacci value for number 47 	= 2971215073
+2018-05-25 21:05:12,331 - INFO - fibonacci value for number 48 	= 4807526976
+2018-05-25 21:05:12,331 - INFO - fibonacci value for number 49 	= 7778742049
+2018-05-25 21:05:12,331 - INFO - fibonacci value for number 50 	= 12586269025
+2018-05-25 21:05:12,332 - INFO - fibonacci value for number 51 	= 20365011074
+2018-05-25 21:05:12,332 - INFO - fibonacci value for number 52 	= 32951280099
+2018-05-25 21:05:12,332 - INFO - fibonacci value for number 53 	= 53316291173
+2018-05-25 21:05:12,332 - INFO - fibonacci value for number 54 	= 86267571272
+2018-05-25 21:05:12,332 - INFO - fibonacci value for number 55 	= 139583862445
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 56 	= 225851433717
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 57 	= 365435296162
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 58 	= 591286729879
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 59 	= 956722026041
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 60 	= 1548008755920
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 61 	= 2504730781961
+2018-05-25 21:05:12,333 - INFO - fibonacci value for number 62 	= 4052739537881
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 63 	= 6557470319842
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 64 	= 10610209857723
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 65 	= 17167680177565
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 66 	= 27777890035288
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 67 	= 44945570212853
+2018-05-25 21:05:12,334 - INFO - fibonacci value for number 68 	= 72723460248141
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 69 	= 117669030460994
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 70 	= 190392490709135
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 71 	= 308061521170129
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 72 	= 498454011879264
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 73 	= 806515533049393
+2018-05-25 21:05:12,335 - INFO - fibonacci value for number 74 	= 1304969544928657
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 75 	= 2111485077978050
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 76 	= 3416454622906707
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 77 	= 5527939700884757
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 78 	= 8944394323791464
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 79 	= 14472334024676221
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 80 	= 23416728348467685
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 81 	= 37889062373143906
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 82 	= 61305790721611591
+2018-05-25 21:05:12,336 - INFO - fibonacci value for number 83 	= 99194853094755497
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 84 	= 160500643816367088
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 85 	= 259695496911122585
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 86 	= 420196140727489673
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 87 	= 679891637638612258
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 88 	= 1100087778366101931
+2018-05-25 21:05:12,337 - INFO - fibonacci value for number 89 	= 1779979416004714189
+2018-05-25 21:05:12,338 - INFO - fibonacci value for number 90 	= 2880067194370816120
+2018-05-25 21:05:12,339 - INFO - fibonacci value for number 91 	= 4660046610375530309
+2018-05-25 21:05:12,339 - INFO - fibonacci value for number 92 	= 7540113804746346429
+2018-05-25 21:05:12,339 - INFO - fibonacci value for number 93 	= 12200160415121876738
+2018-05-25 21:05:12,339 - INFO - fibonacci value for number 94 	= 19740274219868223167
+2018-05-25 21:05:12,339 - INFO - fibonacci value for number 95 	= 31940434634990099905
+2018-05-25 21:05:12,340 - INFO - fibonacci value for number 96 	= 51680708854858323072
+2018-05-25 21:05:12,340 - INFO - fibonacci value for number 97 	= 83621143489848422977
+2018-05-25 21:05:12,340 - INFO - fibonacci value for number 98 	= 135301852344706746049
+2018-05-25 21:05:12,340 - INFO - fibonacci value for number 99 	= 218922995834555169026
+2018-05-25 21:05:12,340 - INFO - fibonacci value for number 100 	= 354224848179261915075
