@@ -43,9 +43,7 @@ try:
     highest_rainfall_month_and_values_every_year = [(k,v) for k,v in average_rainfall.items() if average_rainfall[k] == max(average_rainfall.values())]
     highest_rainfall_month_every_year,highest_rainfall_value_every_year = highest_rainfall_month_and_values_every_year[0][0],highest_rainfall_month_and_values_every_year[0][1]
     
-    avg_rainfall_per_year = 0
-    for k in average_rainfall:
-        avg_rainfall_per_year += average_rainfall[k]
+    avg_rainfall_per_year = sum(average_rainfall[v] for v in average_rainfall)
 
     avg_rainfall_per_month = avg_rainfall_per_year/12
 
