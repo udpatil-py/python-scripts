@@ -1,0 +1,28 @@
+2018-05-26 19:37:56,746 - INFO - 8284 - Read 100 years Bangalore Rainfall data successfully
+2018-05-26 19:37:56,746 - INFO - 8284 - Setting index as Year
+2018-05-26 19:37:56,746 - INFO - 8284 - munging/adding zero to empty cells
+2018-05-26 19:37:56,746 - INFO - 8284 - 
+----------------------------------------------------------------------------------------------------
+From last 100 years (1900 to 2000) data.Average rainfall occurred in each month is:
+----------------------------------------------------------------------------------------------------
+2018-05-26 19:37:56,750 - INFO - 8284 - With 100 years data, average rainfall in the month of Jan	=	4.870 mm
+2018-05-26 19:37:56,875 - INFO - 8284 - With 100 years data, average rainfall in the month of Feb	=	7.870 mm
+2018-05-26 19:37:56,907 - INFO - 8284 - With 100 years data, average rainfall in the month of March	=	10.030 mm
+2018-05-26 19:37:56,925 - INFO - 8284 - With 100 years data, average rainfall in the month of April	=	43.916 mm
+2018-05-26 19:37:56,962 - INFO - 8284 - With 100 years data, average rainfall in the month of May	=	111.894 mm
+2018-05-26 19:37:56,984 - INFO - 8284 - With 100 years data, average rainfall in the month of June	=	79.749 mm
+2018-05-26 19:37:57,011 - INFO - 8284 - With 100 years data, average rainfall in the month of July	=	109.680 mm
+2018-05-26 19:37:57,042 - INFO - 8284 - With 100 years data, average rainfall in the month of Aug	=	138.813 mm
+2018-05-26 19:37:57,069 - INFO - 8284 - With 100 years data, average rainfall in the month of Sept	=	185.898 mm
+2018-05-26 19:37:57,095 - INFO - 8284 - With 100 years data, average rainfall in the month of Oct	=	161.660 mm
+2018-05-26 19:37:57,130 - INFO - 8284 - With 100 years data, average rainfall in the month of Nov	=	59.243 mm
+2018-05-26 19:37:57,155 - INFO - 8284 - With 100 years data, average rainfall in the month of Dec	=	17.203 mm
+2018-05-26 19:37:57,191 - INFO - 8284 - 
+----------------------------------------------------------------------------------------------------
+With last 100 years of rainfall data from 1900 to 2000, in Bangalore city.
+    Highest rainfall was 522.2 mm occurred in the month of Oct-1956. 
+    However every year highest rainfall is happening in the month of Sept with approximate rainfall of 185.898 mm.
+    
+ But average rainfall in every month in Bangalore is 77.56883333333333 mm. 
+ Average rainfall every year in Bangalore is 930.826 mm...!
+----------------------------------------------------------------------------------------------------.
