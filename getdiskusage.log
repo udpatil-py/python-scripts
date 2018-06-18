@@ -1,0 +1,352 @@
+INFO - 2018-06-18 00:16:15,395 - ========================Program Started========================
+INFO - 2018-06-18 00:16:15,395 - checking path format
+INFO - 2018-06-18 00:16:15,395 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:16:15,396 - username:rhel6
+INFO - 2018-06-18 00:16:15,397 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:16:15,397 - Remote Server mountpath:/
+WARNING - 2018-06-18 00:16:15,409 - mount is restricted on root directories,exiting the program
+INFO - 2018-06-18 00:16:43,818 - ========================Program Started========================
+INFO - 2018-06-18 00:16:43,819 - checking path format
+INFO - 2018-06-18 00:16:43,819 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:16:43,819 - username:rhel6
+INFO - 2018-06-18 00:16:43,819 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:16:43,819 - Remote Server mountpath:/root
+WARNING - 2018-06-18 00:16:43,828 - mount is restricted on root directories,exiting the program
+INFO - 2018-06-18 00:16:47,837 - ========================Program Started========================
+INFO - 2018-06-18 00:16:47,838 - checking path format
+INFO - 2018-06-18 00:16:47,838 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:16:47,839 - username:rhel6
+INFO - 2018-06-18 00:16:47,839 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:16:47,839 - Remote Server mountpath:/root/
+WARNING - 2018-06-18 00:16:47,848 - mount is restricted on root directories,exiting the program
+
+INFO - 2018-06-18 00:45:43,090 - ========================Program Started========================
+INFO - 2018-06-18 00:45:43,090 - checking path format
+INFO - 2018-06-18 00:45:43,090 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:45:43,091 - username:rhel6
+INFO - 2018-06-18 00:45:43,091 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:45:43,091 - Remote Server mountpath://////
+ERROR - 2018-06-18 00:45:43,103 - Invalid input path//////
+INFO - 2018-06-18 00:46:16,790 - ========================Program Started========================
+INFO - 2018-06-18 00:46:16,791 - checking path format
+INFO - 2018-06-18 00:46:16,795 - waiting for user to enter correct path
+INFO - 2018-06-18 00:46:43,076 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:46:43,077 - username:test
+INFO - 2018-06-18 00:46:43,077 - ServerName/ip:servername
+INFO - 2018-06-18 00:46:43,077 - Remote Server mountpath:/opt/target/monitor/app
+ERROR - 2018-06-18 00:46:43,113 - Server not reachable
+INFO - 2018-06-18 00:48:37,771 - ========================Program Started========================
+INFO - 2018-06-18 00:48:37,772 - checking path format
+INFO - 2018-06-18 00:48:37,772 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:48:37,772 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:48:37,773 - Remote Server mountpath:/home/rhel6/
+INFO - 2018-06-18 00:48:40,730 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 00:48:40,731 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 00:48:40,731 - Started to search file recursively using glob function
+INFO - 2018-06-18 00:48:43,326 - number of files found using <function search_files_1 at 0xb73ca53c> function is 9063:
+INFO - 2018-06-18 00:48:43,329 - <function search_files_1 at 0xb73ca53c> function took 2553.791 ms
+INFO - 2018-06-18 00:48:43,329 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 00:48:43,329 - 
+,
+{"files": [{"/home/python/Desktop/newmount/Desktop/new file": 198}, {"/home/python/Desktop/newmount/Desktop/new file~": 198}, {"/home/python/Desktop/newmount/Desktop/fuse-sshfs-2.4-1.el6.i686.rpm": 53124}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293912.54.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293892.0.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293868.21.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293912.83.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293904.53.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293924.62.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293841.72.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293824.28.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293933.47.log": 0}, {"/home/python/Desktop/newmount/Desktop
+.
+.
+.
+.
+./python/Desktop/newmount/Desktop/target/monitor/logs/1529293848.2.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293830.48.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293818.09.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293824.12.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293894.44.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293834.08.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293861.62.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293925.84.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293816.98.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293884.93.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293888.55.log": 0}, {"/home/python/Desktop/newmount/Desktop/target/monitor/logs/1529293930.52.log": 0}]}
+INFO - 2018-06-18 00:48:43,329 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:43,330 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 00:48:43,330 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:44,436 - number of files found using <function search_files_2 at 0xb73ca584> function is 9176:
+INFO - 2018-06-18 00:48:44,437 - <function search_files_2 at 0xb73ca584> function took 1067.182 ms
+INFO - 2018-06-18 00:48:44,437 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 00:48:44,437 - 
+,
+{"files": [{"/home/python/Desktop/newmount/.config/user-dirs.dirs": 632}, {"/home/python/Desktop/newmount/.config/user-dirs.locale": 5}, {"/home/python/Desktop/newmount/.gnote/1310f4a6-eef9-435b-afc4-40662394ee7f.note": 1123}, {"/home/python/Desktop/newmount/.gnote/b3a8bd34-d234-4ad0-8c25-50e09bb3ab1d.note": 1244}, {"/home/python/Desktop/newmount/.local/share/.converted-launchers": 0}, {"/home/python/Desktop/newmount/.local/share/applications/preferred-mail-reader.desktop": 257}, {"/home/python/Desktop/newmount/.local/share/applications/preferred-web-browser.desktop": 2378}, {"/home/python/Desktop/newmount/.local/share/gvfs-metadata/home-b81acd12.log": 32768}, {"/home/python/Desktop/newmount/.local/share/gvfs-metadata/home": 1248}, {"/home/python/Desktop/newmount/.gnupg/gpg.conf": 7856}, {"/home/python/Desktop/newmount/.gnupg/trustdb.gpg": 40}, {"/home/python/Desktop/newmount/.gnupg/secring.gpg": 0}, {"/home/python/Desktop/newmount/.gnupg/pubring.gpg": 0}, {"/home/python/Desktop/newmou
+.
+.
+.
+.
+.nt/.pulse/106e3db522590aac54d37efc00000014-default-source": 42}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-default-sink": 43}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-stream-volumes.tdb": 73728}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-device-volumes.tdb": 61440}, {"/home/python/Desktop/newmount/.gstreamer-0.10/registry.i386.bin": 373887}, {"/home/python/Desktop/newmount/.cache/event-sound-cache.tdb.106e3db522590aac54d37efc00000014.i386-redhat-linux-gnu": 12288}, {"/home/python/Desktop/newmount/.cache/gedit/gedit-metadata.xml": 315}, {"/home/python/Desktop/newmount/.cache/vmware/drag_and_drop/hZAnyQ/fuse-sshfs-2.4-1.el6.i686.rpm": 53124}, {"/home/python/Desktop/newmount/.gnome2/gedit/gedit-2": 74}, {"/home/python/Desktop/newmount/.gnome2/accels/gedit": 9199}, {"/home/python/Desktop/newmount/.gnome2/accels/nautilus": 8207}, {"/home/python/Desktop/newmount/.gnome2/keyrings/login.keyring": 105}]}
+INFO - 2018-06-18 00:48:44,437 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:44,438 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 00:48:44,438 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:44,438 - started finding files using os.walk
+INFO - 2018-06-18 00:48:45,210 - number of files found using <function search_files_3 at 0xb73ca614> function is 9188:
+INFO - 2018-06-18 00:48:45,210 - <function search_files_3 at 0xb73ca614> function took 743.165 ms
+INFO - 2018-06-18 00:48:45,210 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 00:48:45,211 - 
+,
+{"files": [{"/home/python/Desktop/newmount/.bash_history": 2686}, {"/home/python/Desktop/newmount/.ICEauthority": 624}, {"/home/python/Desktop/newmount/.bash_logout": 18}, {"/home/python/Desktop/newmount/.xsession-errors.old": 2133}, {"/home/python/Desktop/newmount/.recently-used.xbel": 1515}, {"/home/python/Desktop/newmount/.dmrc": 41}, {"/home/python/Desktop/newmount/.bash_profile": 176}, {"/home/python/Desktop/newmount/.esd_auth": 16}, {"/home/python/Desktop/newmount/.bashrc": 124}, {"/home/python/Desktop/newmount/.xsession-errors": 657}, {"/home/python/Desktop/newmount/.gtk-bookmarks": 137}, {"/home/python/Desktop/newmount/.pulse-cookie": 256}, {"/home/python/Desktop/newmount/.config/user-dirs.dirs": 632}, {"/home/python/Desktop/newmount/.config/user-dirs.locale": 5}, {"/home/python/Desktop/newmount/.gnote/1310f4a6-eef9-435b-afc4-40662394ee7f.note": 1123}, {"/home/python/Desktop/newmount/.gnote/b3a8bd34-d234-4ad0-8c25-50e09bb3ab1d.note": 1244}, {"/home/python/Desktop/newmount/.loca
+.
+.
+.
+.
+.nt/.pulse/106e3db522590aac54d37efc00000014-default-source": 42}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-default-sink": 43}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-stream-volumes.tdb": 73728}, {"/home/python/Desktop/newmount/.pulse/106e3db522590aac54d37efc00000014-device-volumes.tdb": 61440}, {"/home/python/Desktop/newmount/.gstreamer-0.10/registry.i386.bin": 373887}, {"/home/python/Desktop/newmount/.cache/event-sound-cache.tdb.106e3db522590aac54d37efc00000014.i386-redhat-linux-gnu": 12288}, {"/home/python/Desktop/newmount/.cache/gedit/gedit-metadata.xml": 315}, {"/home/python/Desktop/newmount/.cache/vmware/drag_and_drop/hZAnyQ/fuse-sshfs-2.4-1.el6.i686.rpm": 53124}, {"/home/python/Desktop/newmount/.gnome2/gedit/gedit-2": 74}, {"/home/python/Desktop/newmount/.gnome2/accels/gedit": 9199}, {"/home/python/Desktop/newmount/.gnome2/accels/nautilus": 8207}, {"/home/python/Desktop/newmount/.gnome2/keyrings/login.keyring": 105}]}
+INFO - 2018-06-18 00:48:45,211 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:45,211 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 00:48:45,211 - ****************************************************************************************************
+INFO - 2018-06-18 00:48:45,211 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 00:48:45,211 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+INFO - 2018-06-18 00:48:46,498 - file search completed by:Mon Jun 18 00:48:46 2018
+INFO - 2018-06-18 00:48:46,498 - no files found more than 100MB in size
+INFO - 2018-06-18 00:48:46,501 - ========================No files found========================
+INFO - 2018-06-18 00:48:46,501 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 00:48:51,653 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 00:48:51,654 - ====================Program Ended successfully====================
+INFO - 2018-06-18 00:51:14,705 - ========================Program Started========================
+INFO - 2018-06-18 00:51:14,705 - checking path format
+INFO - 2018-06-18 00:51:14,706 - given path has all expected characters and checking further now
+INFO - 2018-06-18 00:51:14,706 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 00:51:14,706 - Remote Server mountpath:/home/rhel6/Desktop/target
+INFO - 2018-06-18 00:51:17,412 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 00:51:17,413 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 00:51:17,413 - Started to search file recursively using glob function
+INFO - 2018-06-18 00:51:17,422 - ========================No files found========================
+INFO - 2018-06-18 00:51:17,423 - ========================No files found========================
+INFO - 2018-06-18 00:51:17,424 - started finding files using os.walk
+INFO - 2018-06-18 00:51:17,424 - ========================No files found========================
+INFO - 2018-06-18 00:51:17,424 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 00:51:17,424 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+INFO - 2018-06-18 00:51:17,429 - file search completed by:Mon Jun 18 00:51:17 2018
+INFO - 2018-06-18 00:51:17,429 - no files found more than 100MB in size
+INFO - 2018-06-18 00:51:17,430 - ========================No files found========================
+INFO - 2018-06-18 00:51:17,430 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 00:51:22,474 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 00:51:22,479 - ====================Program Ended successfully====================
+INFO - 2018-06-18 01:24:19,798 - ========================Program Started========================
+INFO - 2018-06-18 01:24:19,798 - checking path format
+INFO - 2018-06-18 01:24:19,798 - given path has all expected characters and checking further now
+INFO - 2018-06-18 01:24:19,798 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 01:24:19,798 - Remote Server mountpath:/home/rhel6/Desktop/target/
+INFO - 2018-06-18 01:24:22,584 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 01:24:22,585 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 01:24:22,585 - Started to search file recursively using glob function
+INFO - 2018-06-18 01:24:22,657 - number of files found using <function search_files_1 at 0xb7440584> function is 345:
+INFO - 2018-06-18 01:24:22,657 - <function search_files_1 at 0xb7440584> function took 71.320 ms
+INFO - 2018-06-18 01:24:22,657 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:24:22,658 - 
+,
+{"files": [{"/home/python/Desktop/newmount/monitor/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.0.log":
+.
+.
+.
+.
+.73}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:24:22,658 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,658 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:24:22,658 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,671 - number of files found using <function search_files_2 at 0xb74405cc> function is 345:
+INFO - 2018-06-18 01:24:22,671 - <function search_files_2 at 0xb74405cc> function took 12.090 ms
+INFO - 2018-06-18 01:24:22,672 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:24:22,672 - 
+,
+{"files": [{"/home/python/Desktop/newmount/monitor/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.0.log":
+.
+.
+.
+.
+.73}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:24:22,672 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,672 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:24:22,672 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,672 - started finding files using os.walk
+INFO - 2018-06-18 01:24:22,681 - number of files found using <function search_files_3 at 0xb744065c> function is 345:
+INFO - 2018-06-18 01:24:22,681 - <function search_files_3 at 0xb744065c> function took 8.437 ms
+INFO - 2018-06-18 01:24:22,681 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:24:22,681 - 
+,
+{"files": [{"/home/python/Desktop/newmount/monitor/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.0.log":
+.
+.
+.
+.
+.73}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/monitor/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/monitor/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/monitor/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:24:22,681 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,681 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:24:22,682 - ****************************************************************************************************
+INFO - 2018-06-18 01:24:22,682 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 01:24:22,682 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+INFO - 2018-06-18 01:24:22,699 - file search completed by:Mon Jun 18 01:24:22 2018
+INFO - 2018-06-18 01:24:22,699 - no files found more than 100MB in size
+INFO - 2018-06-18 01:24:22,699 - ========================No files found========================
+INFO - 2018-06-18 01:24:22,699 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 01:24:27,726 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 01:24:27,726 - ====================Program Ended successfully====================
+INFO - 2018-06-18 01:25:03,211 - ========================Program Started========================
+INFO - 2018-06-18 01:25:03,211 - checking path format
+INFO - 2018-06-18 01:25:03,212 - given path has all expected characters and checking further now
+INFO - 2018-06-18 01:25:03,212 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 01:25:03,212 - Remote Server mountpath:/home/rhel6/Desktop/target/monitor
+INFO - 2018-06-18 01:25:06,459 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 01:25:06,460 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 01:25:06,460 - Started to search file recursively using glob function
+INFO - 2018-06-18 01:25:06,526 - number of files found using <function search_files_1 at 0xb737c53c> function is 345:
+INFO - 2018-06-18 01:25:06,527 - <function search_files_1 at 0xb737c53c> function took 65.725 ms
+INFO - 2018-06-18 01:25:06,527 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:06,527 - 
+,
+{"files": [{"/home/python/Desktop/newmount/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/logs/15293
+.
+.
+.
+.
+.ython/Desktop/newmount/logs/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:06,527 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,527 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:06,527 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,541 - number of files found using <function search_files_2 at 0xb737c584> function is 345:
+INFO - 2018-06-18 01:25:06,541 - <function search_files_2 at 0xb737c584> function took 12.706 ms
+INFO - 2018-06-18 01:25:06,542 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:06,542 - 
+,
+{"files": [{"/home/python/Desktop/newmount/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/logs/15293
+.
+.
+.
+.
+.ython/Desktop/newmount/logs/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:06,542 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,542 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:06,542 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,542 - started finding files using os.walk
+INFO - 2018-06-18 01:25:06,552 - number of files found using <function search_files_3 at 0xb737c614> function is 345:
+INFO - 2018-06-18 01:25:06,553 - <function search_files_3 at 0xb737c614> function took 9.668 ms
+INFO - 2018-06-18 01:25:06,553 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:06,553 - 
+,
+{"files": [{"/home/python/Desktop/newmount/logs/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/logs/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/logs/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/logs/15293
+.
+.
+.
+.
+.ython/Desktop/newmount/logs/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/logs/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/logs/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/logs/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/logs/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/logs/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/logs/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/logs/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/logs/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/logs/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/logs/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:06,553 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,553 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:06,553 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:06,553 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 01:25:06,553 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+INFO - 2018-06-18 01:25:06,582 - file search completed by:Mon Jun 18 01:25:06 2018
+INFO - 2018-06-18 01:25:06,582 - no files found more than 100MB in size
+INFO - 2018-06-18 01:25:06,583 - ========================No files found========================
+INFO - 2018-06-18 01:25:06,583 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 01:25:11,608 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 01:25:11,609 - ====================Program Ended successfully====================
+INFO - 2018-06-18 01:25:16,494 - ========================Program Started========================
+INFO - 2018-06-18 01:25:16,494 - checking path format
+INFO - 2018-06-18 01:25:16,494 - given path has all expected characters and checking further now
+INFO - 2018-06-18 01:25:16,494 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 01:25:16,495 - Remote Server mountpath:/home/rhel6/Desktop/target/monitor/logs
+INFO - 2018-06-18 01:25:19,713 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 01:25:19,713 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 01:25:19,713 - Started to search file recursively using glob function
+INFO - 2018-06-18 01:25:19,777 - number of files found using <function search_files_1 at 0xb746353c> function is 345:
+INFO - 2018-06-18 01:25:19,780 - <function search_files_1 at 0xb746353c> function took 62.613 ms
+INFO - 2018-06-18 01:25:19,780 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:19,780 - 
+,
+{"files": [{"/home/python/Desktop/newmount/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/1529310099.66.log": 713}, {"/home/python/Desktop/newmount/1529310101.55.log": 713}, {
+.
+.
+.
+.
+.og": 1220}, {"/home/python/Desktop/newmount/1529310101.38.log": 1220}, {"/home/python/Desktop/newmount/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:19,780 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,780 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:19,780 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,809 - number of files found using <function search_files_2 at 0xb7463584> function is 345:
+INFO - 2018-06-18 01:25:19,814 - <function search_files_2 at 0xb7463584> function took 26.850 ms
+INFO - 2018-06-18 01:25:19,814 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:19,814 - 
+,
+{"files": [{"/home/python/Desktop/newmount/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/1529310099.66.log": 713}, {"/home/python/Desktop/newmount/1529310101.55.log": 713}, {
+.
+.
+.
+.
+.og": 1220}, {"/home/python/Desktop/newmount/1529310101.38.log": 1220}, {"/home/python/Desktop/newmount/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:19,814 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,814 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:19,815 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,815 - started finding files using os.walk
+INFO - 2018-06-18 01:25:19,827 - number of files found using <function search_files_3 at 0xb7463614> function is 345:
+INFO - 2018-06-18 01:25:19,833 - <function search_files_3 at 0xb7463614> function took 11.874 ms
+INFO - 2018-06-18 01:25:19,833 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:19,833 - 
+,
+{"files": [{"/home/python/Desktop/newmount/1529310098.91.log": 1220}, {"/home/python/Desktop/newmount/1529310098.67.log": 773}, {"/home/python/Desktop/newmount/1529310099.07.log": 100}, {"/home/python/Desktop/newmount/1529310100.17.log": 2888}, {"/home/python/Desktop/newmount/1529310100.6.log": 18}, {"/home/python/Desktop/newmount/1529310101.8.log": 1220}, {"/home/python/Desktop/newmount/1529310099.82.log": 1220}, {"/home/python/Desktop/newmount/1529310101.24.log": 100}, {"/home/python/Desktop/newmount/1529310099.92.log": 1220}, {"/home/python/Desktop/newmount/1529310101.76.log": 2888}, {"/home/python/Desktop/newmount/1529310101.01.log": 100}, {"/home/python/Desktop/newmount/1529310101.79.log": 773}, {"/home/python/Desktop/newmount/1529310100.02.log": 100}, {"/home/python/Desktop/newmount/1529310101.0.log": 100}, {"/home/python/Desktop/newmount/1529310099.69.log": 773}, {"/home/python/Desktop/newmount/1529310099.66.log": 713}, {"/home/python/Desktop/newmount/1529310101.55.log": 713}, {
+.
+.
+.
+.
+.og": 1220}, {"/home/python/Desktop/newmount/1529310101.38.log": 1220}, {"/home/python/Desktop/newmount/1529310100.99.log": 773}, {"/home/python/Desktop/newmount/1529310099.19.log": 773}, {"/home/python/Desktop/newmount/1529310101.12.log": 1220}, {"/home/python/Desktop/newmount/1529310100.21.log": 1220}, {"/home/python/Desktop/newmount/1529310101.4.log": 18}, {"/home/python/Desktop/newmount/1529310101.81.log": 2888}, {"/home/python/Desktop/newmount/1529310099.3.log": 1220}, {"/home/python/Desktop/newmount/1529310098.73.log": 713}, {"/home/python/Desktop/newmount/1529310099.65.log": 2888}, {"/home/python/Desktop/newmount/1529310100.7.log": 773}, {"/home/python/Desktop/newmount/1529310101.98.log": 2888}, {"/home/python/Desktop/newmount/1529310101.62.log": 100}, {"/home/python/Desktop/newmount/1529310098.82.log": 18}, {"/home/python/Desktop/newmount/1529310099.06.log": 773}, {"/home/python/Desktop/newmount/1529310100.89.log": 100}, {"/home/python/Desktop/newmount/1529310101.52.log": 713}]}
+INFO - 2018-06-18 01:25:19,833 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,834 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:19,834 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:19,834 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 01:25:19,834 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+INFO - 2018-06-18 01:25:19,860 - file search completed by:Mon Jun 18 01:25:19 2018
+INFO - 2018-06-18 01:25:19,860 - no files found more than 100MB in size
+INFO - 2018-06-18 01:25:19,860 - ========================No files found========================
+INFO - 2018-06-18 01:25:19,860 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 01:25:24,885 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 01:25:24,885 - ====================Program Ended successfully====================
+INFO - 2018-06-18 01:25:31,605 - ========================Program Started========================
+INFO - 2018-06-18 01:25:31,605 - checking path format
+INFO - 2018-06-18 01:25:31,605 - given path has all expected characters and checking further now
+INFO - 2018-06-18 01:25:31,605 - ServerName/ip:192.168.84.135
+INFO - 2018-06-18 01:25:31,606 - Remote Server mountpath:/tmp
+INFO - 2018-06-18 01:25:34,430 - newmount path is received now:/home/python/Desktop/newmount
+INFO - 2018-06-18 01:25:34,431 - path is valid and mounted successfully on local server
+INFO - 2018-06-18 01:25:34,431 - Started to search file recursively using glob function
+INFO - 2018-06-18 01:25:34,484 - number of files found using <function search_files_1 at 0xb73b753c> function is 56:
+INFO - 2018-06-18 01:25:34,484 - <function search_files_1 at 0xb73b753c> function took 52.722 ms
+INFO - 2018-06-18 01:25:34,484 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:34,484 - 
+,
+{"files": [{"/home/python/Desktop/newmount/yum.log": 0}, {"/home/python/Desktop/newmount/ks-script-uVrXff.log": 72}, {"/home/python/Desktop/newmount/ks-script-uVrXff": 2295}, {"/home/python/Desktop/newmount/vmware-config-1770.0/99-vmware-scsi-udev.rules": 341}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-register-9341e9e27baab406a1a678de00000035.lock": 0}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-server-9341e9e27baab406a1a678de00000035-ior": 629}, {"/home/python/Desktop/newmount/pulse-9hFANgq40NOL/pid": 5}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7651.log": 6465}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1367.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-1795.log": 4308}, {"/home/python/Desktop/newmount/vmware-root/vmware-2029.log": 7016}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1348.log": 6412}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1343.log": 6
+.
+.
+.
+.
+.op/newmount/vmware-root/vmware-apploader-8096.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1360.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7663.log": 2257}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2029.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7962.log": 5261}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2083.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-2057.log": 5685}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-8108.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7659.log": 2270}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7617.log": 5351}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1293.log": 5261}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-2379.log": 6447}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-29682.log": 6448}]}
+INFO - 2018-06-18 01:25:34,484 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,484 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:34,484 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,493 - number of files found using <function search_files_2 at 0xb73b7584> function is 53:
+INFO - 2018-06-18 01:25:34,493 - <function search_files_2 at 0xb73b7584> function took 7.915 ms
+INFO - 2018-06-18 01:25:34,493 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:34,493 - 
+,
+{"files": [{"/home/python/Desktop/newmount/vmware-config-1770.0/99-vmware-scsi-udev.rules": 341}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-register-9341e9e27baab406a1a678de00000035.lock": 0}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-server-9341e9e27baab406a1a678de00000035-ior": 629}, {"/home/python/Desktop/newmount/pulse-9hFANgq40NOL/pid": 5}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7651.log": 6465}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1367.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-1795.log": 4308}, {"/home/python/Desktop/newmount/vmware-root/vmware-2029.log": 7016}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1348.log": 6412}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1343.log": 6437}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1999.log": 5261}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7728.log": 5741}, 
+.
+.
+.
+.
+.op/newmount/vmware-root/vmware-apploader-8096.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1360.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7663.log": 2257}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2029.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7962.log": 5261}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2083.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-2057.log": 5685}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-8108.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7659.log": 2270}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7617.log": 5351}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1293.log": 5261}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-2379.log": 6447}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-29682.log": 6448}]}
+INFO - 2018-06-18 01:25:34,493 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,493 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:34,493 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,493 - started finding files using os.walk
+INFO - 2018-06-18 01:25:34,497 - number of files found using <function search_files_3 at 0xb73b7614> function is 57:
+INFO - 2018-06-18 01:25:34,497 - <function search_files_3 at 0xb73b7614> function took 3.778 ms
+INFO - 2018-06-18 01:25:34,497 - ====================Just displaying only few top and bottom files of json data====================
+INFO - 2018-06-18 01:25:34,498 - 
+,
+{"files": [{"/home/python/Desktop/newmount/yum.log": 0}, {"/home/python/Desktop/newmount/.X0-lock": 11}, {"/home/python/Desktop/newmount/ks-script-uVrXff.log": 72}, {"/home/python/Desktop/newmount/ks-script-uVrXff": 2295}, {"/home/python/Desktop/newmount/vmware-config-1770.0/99-vmware-scsi-udev.rules": 341}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-register-9341e9e27baab406a1a678de00000035.lock": 0}, {"/home/python/Desktop/newmount/orbit-rhel6/bonobo-activation-server-9341e9e27baab406a1a678de00000035-ior": 629}, {"/home/python/Desktop/newmount/pulse-9hFANgq40NOL/pid": 5}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7651.log": 6465}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1367.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-1795.log": 4308}, {"/home/python/Desktop/newmount/vmware-root/vmware-2029.log": 7016}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1348.log": 6412}, {"/home/python/Desktop/ne
+.
+.
+.
+.
+.op/newmount/vmware-root/vmware-apploader-8096.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1360.log": 7068}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7663.log": 2257}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2029.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7962.log": 5261}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-2083.log": 5933}, {"/home/python/Desktop/newmount/vmware-root/vmware-2057.log": 5685}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-8108.log": 7113}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7659.log": 2270}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-7617.log": 5351}, {"/home/python/Desktop/newmount/vmware-root/vmware-apploader-1293.log": 5261}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-2379.log": 6447}, {"/home/python/Desktop/newmount/vmware-rhel6/vmware-apploader-29682.log": 6448}]}
+INFO - 2018-06-18 01:25:34,498 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,498 - ****************************************Next Function Starts****************************************
+INFO - 2018-06-18 01:25:34,498 - ****************************************************************************************************
+INFO - 2018-06-18 01:25:34,498 - finding logs which are more than 100MB in size with in 30 seconds of given timeout
+INFO - 2018-06-18 01:25:34,498 - started file search with file size limit of 100MB and timeout of 30 seconds at:Remote Server mountpath:	/home/python/Desktop/newmount
+ERROR - 2018-06-18 01:25:34,505 - Exception occurred in search_files_4 function 
+ [Errno 2] No such file or directory: '/home/python/Desktop/newmount/VMwareDnD/hZAnyQ'
+INFO - 2018-06-18 01:25:34,505 - ========================No files found========================
+INFO - 2018-06-18 01:25:34,506 - Waiting to unmount the filesystem as required task is completed
+INFO - 2018-06-18 01:25:39,535 - successfully unmounted the remote filesystem from local machine
+INFO - 2018-06-18 01:25:39,536 - ====================Program Ended successfully====================
