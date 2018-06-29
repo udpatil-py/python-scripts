@@ -57,8 +57,14 @@ python3 getdiskusage_version_1.0.0.py rhel6@192.168.84.135:/home/rhel6/Desktop/t
 python3 getdiskusage_version_1.0.0.py rhel6@192.168.84.135:/home/rhel6/Desktop/target/monitor
 python3 getdiskusage_version_1.0.0.py rhel6@192.168.84.135:/home/rhel6/Desktop/target/monitor/logs
 
+configure ssh:
+ssh-keygen
+ssh-copy-id -i ~/.ssh/id_rsa.pub rhel6@192.168.84.135
+test it:
+ssh rhel6@192.168.84.135 
+Note: in sshfs IdentityFile path should be absolute path of the private key
 
-sample_command = 'sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa python@192.168.84.135:/home/python/Desktop/python_scripts /home/rhel6/Desktop/remote1'
+sample_command = 'sudo sshfs -o allow_other,IdentityFile=/home/python/.ssh/id_rsa python@192.168.84.135:/home/python/Desktop/python_scripts /home/rhel6/Desktop/remote1'
 
 sudo fusermount -u /home/python/Desktop/newmount
 
