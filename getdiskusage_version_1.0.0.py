@@ -96,12 +96,12 @@ def server_check_and_mount(path):
     try:
         if "@" in path and ":" in path:
             username,serverip,mountpath = re.split("@|:",path)
-            command = "sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa {0}@{1}:{2} /home/python/Desktop/newmount".format(username,serverip,mountpath)
+            command = "sudo sshfs -o allow_other,IdentityFile=/home/python/.ssh/id_rsa {0}@{1}:{2} /home/python/Desktop/newmount".format(username,serverip,mountpath)
             logger.info("username:"+username)
             print("UserName:",username)
         elif "@" not in path and ":" in path:
             serverip,mountpath = re.split(":",path)
-            command = "sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa {0}:{1} /home/python/Desktop/newmount".format(serverip,mountpath)
+            command = "sudo sshfs -o allow_other,IdentityFile=/home/python/.ssh/id_rsa {0}:{1} /home/python/Desktop/newmount".format(serverip,mountpath)
         else:
             logger.info("incorrect path format received,desired format is : username@server@/path")
             print("Please enter path in desired format example: username@server:/path")
